@@ -5,7 +5,7 @@ How To Make Website Using HTML And CSS | Create Website Header Design
 ## Link Demo Di GitHub Pages 
 
 Silahkan lihat melalui link berikut ini :
-https://github.com/yohanesaragae/sacode-coding-dasar-i-tugas-day09
+https://yohanesaragae.github.io/sacode-coding-dasar-i-tugas-day09/
 
 ## Screenshot Hasil Tugas Day 09
 
